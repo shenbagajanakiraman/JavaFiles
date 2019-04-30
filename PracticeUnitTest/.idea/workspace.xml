@@ -163,7 +163,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="144" />
     <option name="y" value="79" />
     <option name="width" value="1371" />
@@ -241,7 +241,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Day 1 Exercises" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -275,7 +275,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ConditionalCheckTest">
+  <component name="RunManager" selected="JUnit.AddingIntegersTest">
     <configuration name="AddingIntegersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PracticeUnitTest" />
       <extension name="coverage">
@@ -341,8 +341,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ConditionalCheckTest" />
         <item itemvalue="JUnit.AddingIntegersTest" />
+        <item itemvalue="JUnit.ConditionalCheckTest" />
         <item itemvalue="JUnit.ConsonantOrVowelTest" />
         <item itemvalue="JUnit.PalindromeAndSumTest" />
         <item itemvalue="JUnit.SpecifyTypeTest" />
