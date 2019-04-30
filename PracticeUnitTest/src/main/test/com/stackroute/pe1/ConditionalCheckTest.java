@@ -1,6 +1,7 @@
 package com.stackroute.pe1;
 
 import com.stackroute.pe1.ConditionalCheck;
+import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -11,16 +12,20 @@ public class ConditionalCheckTest {
 
     // Arrange
 
-    ConditionalCheck chk = new ConditionalCheck();
+    ConditionalCheck chk;
     String strCheck;
 
 
     @Before
     public void setUp() throws Exception {
+        chk = new ConditionalCheck();
 
     }
 
-
+    @After
+    public void tearDown() throws Exception {
+        chk = null;
+    }
 
     @Test
     public void checkTom() throws Exception {

@@ -5,40 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ba21791-bc8c-44b4-b4d1-a2e6f067a433" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Day 1 Exercises/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeUnitTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/pe1/Sample1Test.java" afterDir="false" />
       <change beforePath="$USER_HOME$/Documents/stackroute/DataMungerStep1_Boilerplate/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/Documents/stackroute/DataMungerStep1_Boilerplate/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day 1 Exercises/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 1 Exercises/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day 1 Exercises/JavaExercises.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 1 Exercises/JavaExercises.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day 1 Exercises/out/production/Day 1 Exercises/PractiseExercise1/AddingInteger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day 1 Exercises/out/production/Day 1 Exercises/PractiseExercise1/ArrangeNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day 1 Exercises/out/production/Day 1 Exercises/PractiseExercise1/ConditionalCheck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day 1 Exercises/out/production/Day 1 Exercises/PractiseExercise1/ConsonantOrVowel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day 1 Exercises/out/production/Day 1 Exercises/PractiseExercise1/GuessingNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day 1 Exercises/out/production/Day 1 Exercises/PractiseExercise1/PalindromeAndSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day 1 Exercises/out/production/Day 1 Exercises/PractiseExercise1/PatternOutput.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day 1 Exercises/out/production/Day 1 Exercises/PractiseExercise1/RepeatCharacter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day 1 Exercises/out/production/Day 1 Exercises/PractiseExercise1/ReverseString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day 1 Exercises/out/production/Day 1 Exercises/PractiseExercise1/SpecifyType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day 1 Exercises/src/PractiseExercise1/AddingInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 1 Exercises/src/main/java/com/stackroute/pe1/AddingInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day 1 Exercises/src/PractiseExercise1/ArrangeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 1 Exercises/src/main/java/com/stackroute/pe1/ArrangeNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day 1 Exercises/src/PractiseExercise1/ConditionalCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 1 Exercises/src/main/java/com/stackroute/pe1/ConditionalCheck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day 1 Exercises/src/PractiseExercise1/ConsonantOrVowel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 1 Exercises/src/main/java/com/stackroute/pe1/ConsonantOrVowel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day 1 Exercises/src/PractiseExercise1/GuessingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 1 Exercises/src/main/java/com/stackroute/pe1/GuessingNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day 1 Exercises/src/PractiseExercise1/PalindromeAndSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 1 Exercises/src/main/java/com/stackroute/pe1/PalindromeAndSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day 1 Exercises/src/PractiseExercise1/PatternOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 1 Exercises/src/main/java/com/stackroute/pe1/PatternOutput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day 1 Exercises/src/PractiseExercise1/RepeatCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 1 Exercises/src/main/java/com/stackroute/pe1/RepeatCharacter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day 1 Exercises/src/PractiseExercise1/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 1 Exercises/src/main/java/com/stackroute/pe1/ReverseString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day 1 Exercises/src/PractiseExercise1/SpecifyType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 1 Exercises/src/main/java/com/stackroute/pe1/SpecifyType.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/stackroute/DataMungerStep1_Boilerplate/src/com/stackroute/datamunger/DataMunger.java" beforeDir="false" afterPath="$USER_HOME$/Documents/stackroute/DataMungerStep1_Boilerplate/src/com/stackroute/datamunger/DataMunger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/stackroute/pe1/ConditionalCheckTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/pe1/ConditionalCheckTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$USER_HOME$/Documents/stackroute/DataMungerStep1_Boilerplate/target/" />
@@ -56,7 +26,86 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/ConditionalCheck.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Sample1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/SpecifyType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="575">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/ConsonantOrVowel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/AddingIntegers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe1/ConditionalCheckTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe1/AddingIntegersTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe1/ConsonantOrVowelTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -105,7 +154,12 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand />
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="DataMungerStep1-boilerplate" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
       <select />
     </treeState>
   </component>
@@ -124,6 +178,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -176,7 +231,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -221,7 +275,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PalindromeAndSumTest">
+  <component name="RunManager" selected="JUnit.ConditionalCheckTest">
     <configuration name="AddingIntegersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PracticeUnitTest" />
       <extension name="coverage">
@@ -241,6 +295,21 @@
       <module name="PracticeUnitTest" />
       <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
       <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.ConditionalCheckTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsonantOrVowelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PracticeUnitTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.pe1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.ConsonantOrVowelTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -270,23 +339,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpecifyTypeTest.CheckCapitalLetter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PracticeUnitTest" />
-      <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.SpecifyTypeTest" />
-      <option name="METHOD_NAME" value="CheckCapitalLetter" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PalindromeAndSumTest" />
-        <item itemvalue="JUnit.AddingIntegersTest" />
         <item itemvalue="JUnit.ConditionalCheckTest" />
+        <item itemvalue="JUnit.AddingIntegersTest" />
+        <item itemvalue="JUnit.ConsonantOrVowelTest" />
+        <item itemvalue="JUnit.PalindromeAndSumTest" />
         <item itemvalue="JUnit.SpecifyTypeTest" />
-        <item itemvalue="JUnit.SpecifyTypeTest.CheckCapitalLetter" />
       </list>
     </recent_temporary>
   </component>
@@ -304,18 +363,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ReverseStringTest - 2019.04.26 at 16h 58m 55s.xml">
-      <configuration name="ReverseStringTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReverseStringTest - 2019.04.26 at 16h 59m 18s.xml">
-      <configuration name="ReverseStringTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReverseStringTest - 2019.04.26 at 17h 00m 15s.xml">
-      <configuration name="ReverseStringTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SpecifyTypeTest - 2019.04.26 at 19h 28m 40s.xml">
-      <configuration name="SpecifyTypeTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SpecifyTypeTest - 2019.04.26 at 19h 29m 28s.xml">
       <configuration name="SpecifyTypeTest" configurationId="JUnit" />
     </history-entry>
@@ -334,11 +381,24 @@
     <history-entry file="PalindromeAndSumTest - 2019.04.29 at 09h 47m 38s.xml">
       <configuration name="PalindromeAndSumTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ConsonantOrVowelTest - 2019.04.29 at 14h 58m 42s.xml">
+      <configuration name="ConsonantOrVowelTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AddingIntegersTest - 2019.04.29 at 15h 01m 00s.xml">
+      <configuration name="AddingIntegersTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConditionalCheckTest - 2019.04.29 at 15h 44m 15s.xml">
+      <configuration name="ConditionalCheckTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConditionalCheckTest - 2019.04.29 at 15h 44m 18s.xml">
+      <configuration name="ConditionalCheckTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27303296" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2811029" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -347,7 +407,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.04021448" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3016086" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3994638" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -360,11 +420,11 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" weight="0.32952252" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.06993947" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Coverage" order="7" side_tool="true" weight="0.06993947" />
+      <window_info anchor="right" id="Maven" order="8" visible="true" weight="0.020174848" />
     </layout>
   </component>
   <component name="XDebuggerManager">
@@ -404,48 +464,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Sample1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/ConditionalCheck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/AddingIntegers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/PalindromeAndSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-141">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe1/ConsonantOrVowelTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/ConsonantOrVowel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -466,10 +488,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe1/PalindromeAndSumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="43" lean-forward="true" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe1/SpecifyTypeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="63" column="40" selection-start-line="63" selection-start-column="40" selection-end-line="63" selection-end-column="40" />
+        <state relative-caret-position="-234">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -478,14 +507,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/SpecifyType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="36" />
+        <state relative-caret-position="575">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe1/ConsonantOrVowelTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/ConsonantOrVowel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe1/AddingIntegersTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
+        <state relative-caret-position="300">
           <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -493,17 +539,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe1/PalindromeAndSumTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/ConditionalCheck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="43" lean-forward="true" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+        <state relative-caret-position="100">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Sample1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/AddingIntegers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe1/ConditionalCheckTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1125">
-          <caret line="49" column="2" selection-start-line="49" selection-start-column="2" selection-end-line="49" selection-end-column="2" />
+        <state relative-caret-position="25">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
         </state>
       </provider>
     </entry>
