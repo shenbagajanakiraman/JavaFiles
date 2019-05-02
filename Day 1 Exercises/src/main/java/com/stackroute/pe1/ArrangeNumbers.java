@@ -12,11 +12,15 @@ public class ArrangeNumbers {
         int length;
         int temp;
 
+        /* Prompt user to enter a number */
+
         System.out.println("Enter a large number :");
         number = input.nextInt();
 
-        int len = Integer.toString(number).length(); // finding length of the number
+        /* finding length of the number */
+        int len = Integer.toString(number).length();
 
+        /* Declate an array to store individual numbers */
         int[] numArray = new int[len];
         int k=0;
         int len1;
@@ -24,10 +28,13 @@ public class ArrangeNumbers {
 
         len1 = len;
 
+        /* Find the individual numbes and store it in an array */
+
         while(len>0) {
             numArray[k] = number % 10;
             number = number / 10;
 
+            /* If the number is even, sum it up */
             if ((numArray[k] % 2) == 0) {
                 sum = sum + numArray[k];
             }
@@ -36,6 +43,8 @@ public class ArrangeNumbers {
         }
 
         len = len1;
+
+        /* Sort the numbers of an array */
 
         int temp1;
         for (int i = 1; i < len; i++) {
@@ -60,6 +69,8 @@ public class ArrangeNumbers {
 
         System.out.println("");
         System.out.println("The Sum of even numbers is ... "+sum);
+
+        /* If sum is greater than 15, print true. Otherwise, print false */
         if(sum > 15) {
             System.out.println("True");
         }

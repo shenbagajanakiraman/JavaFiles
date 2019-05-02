@@ -15,11 +15,14 @@ public class PalindromeAndSum {
 
         Scanner input = new Scanner(System.in);
 
+        /* Prompt the user to enter a number */
         System.out.println("Enter a number :");
 
         number = input.nextInt();
 
         temp1 = number;
+
+        /* Code to reverse the number */
 
         while(temp1 != 0) {
 
@@ -32,8 +35,9 @@ public class PalindromeAndSum {
             }
         }
 
-        
+        /* check if the reversed number is same as the original number */
         if( number == revnumber)   {
+            /* Check if the number is lesser than 25 and Print accordingly */
             if(sum < 25) {
                 System.out.println(number + " is a palindrome and the sum of even numbers is lesser than 25 ");
             }
