@@ -1,6 +1,7 @@
 package com.stackroute.pe1;
 
 import com.stackroute.pe1.AddingIntegers;
+import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -19,14 +20,19 @@ public class AddingIntegersTest extends AddingIntegers {
         chk = new AddingIntegers();
     }
 
+    @After
+    public void tearDown() throws Exception {
+        chk = null;
+    }
+
     @Test
-    public void testSum() {
+    public void testPrintSumOfIntegers() {
 
         // Arrange
         int arrayInt[] = {30,40,30,0};
 
         // Act
-        strChk = chk.findSum(arrayInt);
+        strChk = chk.findSumOfIntegers(arrayInt);
 
         // Assert
         assertEquals(100,strChk);
@@ -38,12 +44,12 @@ public class AddingIntegersTest extends AddingIntegers {
     //  Finding Float values
 
     @Test
-    public void notInteger() {
+    public void testCheckIfInputIsNotInteger() {
         // Arrange
         float arrayDouble1[] = {3.6f,40,30,0};
 
         // Act
-        chkFlag = chk.findFloat(arrayDouble1);
+        chkFlag = chk.findIfInputIsFloat(arrayDouble1);
 
         // Assert
 
@@ -56,12 +62,12 @@ public class AddingIntegersTest extends AddingIntegers {
     //  Checking if All input values are integers
 
     @Test
-    public void invalidInput() {
+    public void testCheckIfAllInputsAreIntegers() {
         // Arrange
         float arrayDouble1[] = {30,40,30,20,0};
 
         // Act
-        chkFlag = chk.findFloat(arrayDouble1);
+        chkFlag = chk.findIfInputIsFloat(arrayDouble1);
 
         // Assert
 
@@ -73,9 +79,9 @@ public class AddingIntegersTest extends AddingIntegers {
 
 
     @Test
-    public void checkException()  {
+    public void testCheckIfExceptionIsThrown()  {
         // Act
-        strCheck = chk.Checkinput("*");
+        strCheck = chk.checkInputForExceptions("*");
         // Assert
         assertEquals("Exception thrown",strCheck);
 

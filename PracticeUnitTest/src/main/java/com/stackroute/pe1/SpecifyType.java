@@ -7,7 +7,7 @@ public class SpecifyType {
     String str;
 
 
-    protected String checkType(char ch) {
+    protected String checkTypeLetterOrSpecialCharacterOrNumber(char ch) {
         if( (ch >= 97 ) && (ch <= 122)) {
             str ="Small letter"; // 97 - 122
         }

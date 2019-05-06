@@ -1,6 +1,7 @@
 package com.stackroute.pe1;
 
 import com.stackroute.pe1.ReverseString;
+import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -15,11 +16,15 @@ public class ReverseStringTest extends ReverseString {
         chk = new ReverseString();
     }
 
+    @After
+    public void tearDown() throws Exception {
+        chk = null;
+    }
 
     @Test
-    public void reverseString() {
+    public void testReverseString() {
 
-        String strCheck = chk.reverseStr("Shenbaga ");
+        String strCheck = chk.reverseString("Shenbaga ");
         assertEquals(" agabnehS",strCheck);
     }
 }

@@ -1,6 +1,7 @@
 package com.stackroute.pe1;
 
 import com.stackroute.pe1.SpecifyType;
+import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -16,13 +17,18 @@ public class SpecifyTypeTest extends SpecifyType {
         chk = new SpecifyType();
     }
 
+    @After
+    public void tearDown() throws Exception {
+        chk = null;
+    }
+
     @Test
-    public void CheckSmallLetter() {
+    public void testCheckSmallLetter() {
         // Arrange
         ch = 's';
 
         // Act
-        String str = chk.checkType(ch);
+        String str = chk.checkTypeLetterOrSpecialCharacterOrNumber(ch);
 
         // Assert
         assertEquals("Small letter",str);
@@ -30,12 +36,12 @@ public class SpecifyTypeTest extends SpecifyType {
     }
 
     @Test
-    public void CheckCapitalLetter() {
+    public void testCheckCapitalLetter() {
         // Arrange
         ch = 'S';
 
         // Act
-        String str = chk.checkType(ch);
+        String str = chk.checkTypeLetterOrSpecialCharacterOrNumber(ch);
 
         // Assert
         assertEquals("Capital letter",str);
@@ -43,12 +49,12 @@ public class SpecifyTypeTest extends SpecifyType {
     }
 
     @Test
-    public void CheckNumber() {
+    public void testCheckNumber() {
         // Arrange
         ch = '6';
 
         // Act
-        String str = chk.checkType(ch);
+        String str = chk.checkTypeLetterOrSpecialCharacterOrNumber(ch);
 
         // Assert
         assertEquals("Number",str);
@@ -56,12 +62,12 @@ public class SpecifyTypeTest extends SpecifyType {
     }
 
     @Test
-    public void CheckSpecialChar() {
+    public void testCheckSpecialChar() {
         // Arrange
         ch = '*';
 
         // Act
-        String str = chk.checkType(ch);
+        String str = chk.checkTypeLetterOrSpecialCharacterOrNumber(ch);
 
         // Assert
         assertEquals("Special Character",str);

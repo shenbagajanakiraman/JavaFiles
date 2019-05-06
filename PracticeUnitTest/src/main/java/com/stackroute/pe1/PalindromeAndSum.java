@@ -12,7 +12,7 @@ public class PalindromeAndSum {
     static int temp1;
 
 
-    public int palindromeCheck(int number) {
+    public int palindromeCheckInput(int number) {
 
 
         while (number != 0) {
@@ -27,7 +27,7 @@ public class PalindromeAndSum {
     }
 
 
-    protected int sumPalin(int number) {
+    protected int sumOfPalindromeIntegers(int number) {
         while (number != 0) {
             remainder = number % 10;
             if (remainder % 2 == 0) {

@@ -7,7 +7,7 @@ public class AddingIntegers {
     int sum;
     boolean flag;
 
-    protected int findSum(int[] arrayInt) {
+    protected int findSumOfIntegers(int[] arrayInt) {
         for( int i = 0; arrayInt[i] != 0;i++) {
             sum = sum + arrayInt[i];
         }
@@ -17,7 +17,7 @@ public class AddingIntegers {
     }
 
 
-    protected boolean findFloat(float[] arrayDouble) {
+    protected boolean findIfInputIsFloat(float[] arrayDouble) {
         for( int i = 0; arrayDouble[i] != 0;i++) {
             if ((int) arrayDouble[i] != arrayDouble[i]) {
                 flag = false;
@@ -33,7 +33,7 @@ public class AddingIntegers {
 
     }
 
-    public String Checkinput(String a) {
+    public String checkInputForExceptions(String a) {
         if(false) {
             throw new IllegalArgumentException();
         }

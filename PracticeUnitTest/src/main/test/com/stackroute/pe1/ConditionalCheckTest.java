@@ -28,9 +28,9 @@ public class ConditionalCheckTest {
     }
 
     @Test
-    public void checkTom() throws Exception {
+    public void testCheckTom() throws Exception {
         // Act
-        strCheck = chk.checkFunction(21);
+        strCheck = chk.checkFunctionTomOrJerry(21);
         // Assert
         assertEquals("Tom",strCheck);
 
@@ -38,9 +38,9 @@ public class ConditionalCheckTest {
     }
 
     @Test
-    public void checkJerry() throws Exception {
+    public void testCheckJerry() throws Exception {
         // Act
-        strCheck = chk.checkFunction(26);
+        strCheck = chk.checkFunctionTomOrJerry(26);
         //Assert
         assertEquals("Jerry",strCheck);
 
@@ -48,9 +48,9 @@ public class ConditionalCheckTest {
     }
 
     @Test
-    public void checkOther() throws Exception {
+    public void testCheckOther() throws Exception {
         // Act
-        strCheck = chk.checkFunction(66);
+        strCheck = chk.checkFunctionTomOrJerry(66);
         // Assert
         assertEquals("Neither Tom nor Jerry",strCheck);
 
@@ -58,9 +58,9 @@ public class ConditionalCheckTest {
     }
 
     @Test
-    public void checkException()  {
+    public void testCheckException()  {
         // Act
-        strCheck = chk.Checkinput("*");
+        strCheck = chk.CheckinputForExceptions("*");
         // Assert
         assertEquals("Exception thrown",strCheck);
 

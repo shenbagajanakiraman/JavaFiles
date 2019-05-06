@@ -7,7 +7,7 @@ public class ConditionalCheck {
     private String str;
 
 
-    public String checkFunction(int number) {
+    public String checkFunctionTomOrJerry(int number) {
 
         if ((number >= 20) && (number <= 30)) {
 
@@ -21,7 +21,7 @@ public class ConditionalCheck {
         return str;
     }
 
-    public String Checkinput(String a) {
+    public String CheckinputForExceptions(String a) {
         if(false) {
             throw new IllegalArgumentException();
         }

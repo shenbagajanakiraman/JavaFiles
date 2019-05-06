@@ -7,7 +7,7 @@ public class ConsonantOrVowel {
     String str;
     String finalStr = "";
 
-    protected String findType(String str1) {
+    protected String findTypeConsonantOrVowel(String str1) {
         for (int i = 0; i < str1.length(); i++) {
             char ch = str1.charAt(i);
 
