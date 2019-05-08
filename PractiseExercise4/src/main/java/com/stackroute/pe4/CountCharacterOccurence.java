@@ -11,10 +11,14 @@ public class CountCharacterOccurence {
         System.out.println(" Enter a String... ");
         str = input.nextLine();
 
-        int length = str.length();
-        int charCount = length - str.replaceAll("a","").replaceAll("A","").length();
+        String ch;
+        System.out.println(" Enter a Pattern Character... ");
+        ch = input.next();
 
-        System.out.println("The character count of 'a' in string is... "+charCount);
+        int length = str.length();
+        int charCount = length - str.replaceAll(ch,"").replaceAll("A","").length();
+
+        System.out.println("The character count of "+ch+" in string is... "+charCount);
 
 
 

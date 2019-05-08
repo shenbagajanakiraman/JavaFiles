@@ -2,15 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e00f29b-cb03-45c2-8131-3c228cad7700" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/CheckConsecutiveNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/ChessBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/DaysOfWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/ExceptionObjectPrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/MatrixAddition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/RemoveVowels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/StringMyexception.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/StudentMarks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PractiseExercise5/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PractiseExercise5/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PractiseExercise5/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PractiseExercise5/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PractiseExercise5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PractiseExercise5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PractiseExercise5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PractiseExercise5/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PractiseExercise5/PractiseExercise5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PractiseExercise5/src/main/java/com/stackroute/pe5/ReplaceArrayElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PractiseExercise5/src/main/java/com/stackroute/pe5/WordCountAndHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/DaysOfWeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/DaysOfWeek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/TryCatchMyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/TryCatchMyException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PractiseExercise4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PractiseExercise4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PractiseExercise4/out/production/PractiseExercise4/com/stackroute/pe4/CountCharacterOccurence.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PractiseExercise4/out/production/PractiseExercise4/com/stackroute/pe4/CountCharacterOccurence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PractiseExercise4/out/production/PractiseExercise4/com/stackroute/pe4/MultipleOccurenceOfString.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PractiseExercise4/out/production/PractiseExercise4/com/stackroute/pe4/MultipleOccurenceOfString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PractiseExercise4/out/production/PractiseExercise4/com/stackroute/pe4/RegularExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PractiseExercise4/out/production/PractiseExercise4/com/stackroute/pe4/RegularExpression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PractiseExercise4/out/production/PractiseExercise4/com/stackroute/pe4/StringSorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PractiseExercise4/out/production/PractiseExercise4/com/stackroute/pe4/StringSorting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PractiseExercise4/out/production/PractiseExercise4/com/stackroute/pe4/StringTranspose.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PractiseExercise4/out/production/PractiseExercise4/com/stackroute/pe4/StringTranspose.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PractiseExercise4/src/main/java/com/stackroute/pe4/CountCharacterOccurence.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PractiseExercise4/src/main/java/com/stackroute/pe4/CountCharacterOccurence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PractiseExercise4/src/main/java/com/stackroute/pe4/MultipleOccurenceOfString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PractiseExercise4/src/main/java/com/stackroute/pe4/MultipleOccurenceOfString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PractiseExercise4/src/main/java/com/stackroute/pe4/RegularExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PractiseExercise4/src/main/java/com/stackroute/pe4/RegularExpression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PractiseExercise4/src/main/java/com/stackroute/pe4/StringSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PractiseExercise4/src/main/java/com/stackroute/pe4/StringSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PractiseExercise4/src/main/java/com/stackroute/pe4/StringTranspose.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PractiseExercise4/src/main/java/com/stackroute/pe4/StringTranspose.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,8 +35,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -37,7 +51,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe3/StringMyexception.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
+            <state relative-caret-position="147">
               <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="42" />
             </state>
           </provider>
@@ -46,8 +60,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe3/ExceptionObjectPrint.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="625">
-              <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+            <state relative-caret-position="300">
+              <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -55,8 +69,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe3/TryCatchMyException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            <state relative-caret-position="256">
+              <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe3/DaysOfWeek.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -84,13 +110,13 @@
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/StudentMarks.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/MatrixAddition.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/Calender.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/DaysOfWeek.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/RemoveVowels.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/ChessBoard.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/CheckConsecutiveNumbers.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/StringException.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/StringMyexception.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/ExceptionObjectPrint.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/DaysOfWeek.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe3/TryCatchMyException.java" />
       </list>
     </option>
@@ -179,8 +205,8 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.TryCatchMyException">
-    <configuration name="CheckConsecutiveNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe3.CheckConsecutiveNumbers" />
+    <configuration name="DaysOfWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe3.DaysOfWeek" />
       <module name="PractiseExercise3" />
       <extension name="coverage">
         <pattern>
@@ -247,10 +273,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.TryCatchMyException" />
+        <item itemvalue="Application.DaysOfWeek" />
         <item itemvalue="Application.ExceptionObjectPrint" />
         <item itemvalue="Application.StringMyexception" />
         <item itemvalue="Application.RemoveVowels" />
-        <item itemvalue="Application.CheckConsecutiveNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -269,8 +295,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2528581" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25622058" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -279,7 +306,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3297587" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.13538875" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3069705" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -287,7 +314,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.23726542" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.43431637" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -331,16 +358,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe3/Calender.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe3/DaysOfWeek.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="577">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe3/ChessBoard.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -365,24 +382,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe3/DaysOfWeek.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe3/StringMyexception.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
+        <state relative-caret-position="147">
           <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe3/ExceptionObjectPrint.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+        <state relative-caret-position="300">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe3/TryCatchMyException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        <state relative-caret-position="256">
+          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
         </state>
       </provider>
     </entry>

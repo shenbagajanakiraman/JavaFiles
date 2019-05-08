@@ -19,9 +19,9 @@ public class DaysOfWeek {
         Calendar calendar = Calendar.getInstance();
 
         System.out.println("Today's date : " +df.format(calendar.getTime()));
+
+
         calendar.set(Calendar.DAY_OF_WEEK,Calendar.MONDAY);
-
-
         System.out.println("First day of the week : "+df.format(calendar.getTime()));
 
         calendar.set(Calendar.DAY_OF_WEEK,Calendar.SUNDAY);

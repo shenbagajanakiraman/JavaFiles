@@ -18,13 +18,14 @@ public class MultipleOccurenceOfString {
         patternString = input.nextLine();
 
 
-        StringBuffer stringBuffer=new StringBuffer();
+       StringBuilder stringFinal=new StringBuilder();
+
         Pattern pattern=Pattern.compile(patternString,Pattern.CASE_INSENSITIVE);
         Matcher matcher=pattern.matcher(str);
         while (matcher.find()){
-            stringBuffer.append("Found at: ").append(matcher.start()).append("-").append(matcher.end()).append("\n");
+            stringFinal.append("Found at: ").append(matcher.start()).append("-").append(matcher.end()).append("\n");
         }
-        System.out.println( stringBuffer);
+        System.out.println( stringFinal);
     }
     }
 
