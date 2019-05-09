@@ -2,30 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98a982a5-9e86-41ed-b73f-ec9448dcc67e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../PractiseExercise5/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PractiseExercise5/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PractiseExercise5/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PractiseExercise5/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PractiseExercise5/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PractiseExercise5/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PractiseExercise5/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PractiseExercise5/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PractiseExercise5/PractiseExercise5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PractiseExercise5/src/main/java/com/stackroute/pe5/ReplaceArrayElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PractiseExercise5/src/main/java/com/stackroute/pe5/WordCountAndHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PractiseExercise5/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PractiseExercise5/src/main/java/com/stackroute/pe5/BooleanHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PractiseExercise5/src/main/java/com/stackroute/pe5/CountWordHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PractiseExercise5/src/main/java/com/stackroute/pe5/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PractiseExercise5/src/main/java/com/stackroute/pe5/ModifyKeyValuePair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PractiseExercise5/src/main/java/com/stackroute/pe5/ReshWordCountLogic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PractiseExercise3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PractiseExercise3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PractiseExercise3/src/main/java/com/stackroute/pe3/DaysOfWeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PractiseExercise3/src/main/java/com/stackroute/pe3/DaysOfWeek.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PractiseExercise3/src/main/java/com/stackroute/pe3/TryCatchMyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PractiseExercise3/src/main/java/com/stackroute/pe3/TryCatchMyException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PractiseExercise4/com/stackroute/pe4/CountCharacterOccurence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PractiseExercise4/com/stackroute/pe4/CountCharacterOccurence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PractiseExercise4/com/stackroute/pe4/MultipleOccurenceOfString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PractiseExercise4/com/stackroute/pe4/MultipleOccurenceOfString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PractiseExercise4/com/stackroute/pe4/RegularExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PractiseExercise4/com/stackroute/pe4/RegularExpression.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PractiseExercise4/com/stackroute/pe4/StringTranspose.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PractiseExercise4/com/stackroute/pe4/StringTranspose.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/CountCharacterOccurence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/CountCharacterOccurence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/MultipleOccurenceOfString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/MultipleOccurenceOfString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/RegularExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/RegularExpression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/StringSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/StringSorting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/StringTranspose.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/StringTranspose.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PractiseExercise5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PractiseExercise5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PractiseExercise5/out/production/PractiseExercise5/com/stackroute/pe5/ReplaceArrayElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PractiseExercise5/out/production/PractiseExercise5/com/stackroute/pe5/ReplaceArrayElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PractiseExercise5/out/production/PractiseExercise5/com/stackroute/pe5/WordCountAndHashMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PractiseExercise5/src/main/java/com/stackroute/pe5/ReplaceArrayElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PractiseExercise5/src/main/java/com/stackroute/pe5/ReplaceArrayElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PractiseExercise5/src/main/java/com/stackroute/pe5/WordCountAndHashMap.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,8 +40,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe4/StringSorting.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+            <state relative-caret-position="461">
+              <caret line="42" column="7" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -125,10 +114,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="833" />
-    <option name="y" value="25" />
-    <option name="width" value="767" />
-    <option name="height" value="875" />
+    <option name="x" value="144" />
+    <option name="y" value="79" />
+    <option name="width" value="1371" />
+    <option name="height" value="821" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -296,7 +285,7 @@
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2528581" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2528581" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -305,7 +294,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3297587" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.04021448" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.04021448" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3994638" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -383,8 +372,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe4/StringSorting.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        <state relative-caret-position="461">
+          <caret line="42" column="7" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="65" />
         </state>
       </provider>
     </entry>
