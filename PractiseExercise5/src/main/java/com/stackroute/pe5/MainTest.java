@@ -21,11 +21,12 @@ class Student{
         return id;
     }
 
-    public String getName() {
+    public String getName()    {
         return name;
     }
 
     public int getAge() {
+
         return age;
     }
 
@@ -104,25 +105,24 @@ public class MainTest {
         System.out.println("Overriding toString and printing the ArrayList");
         System.out.println(studentList.toString());
 
-
-        System.out.println("Printing using Iterator");
-        System.out.println("Before sorting.......");
-
-        Iterator studIterator = studentList.iterator();
-
-        while (studIterator.hasNext()) {
-            System.out.println(studIterator.next());
-        }
-
-        Collections.sort(studentList,new StudentSorter());
-
-        Iterator studIterator1 = studentList.iterator();
-
-
-        System.out.println("\nAfter Sorting...");
-        while (studIterator1.hasNext()) {
-            System.out.println(studIterator1.next());
-        }
+//
+//        System.out.println("Printing using Iterator");
+//        System.out.println("Before sorting.......");
+//
+//        Iterator studIterator = studentList.iterator();
+//
+//        while (studIterator.hasNext()) {
+//            System.out.println(studIterator.next());
+//        }
+//
+//        Collections.sort(studentList,new StudentSorter());
+//
+//        Iterator studIterator1 = studentList.iterator();
+//
+//        System.out.println("\nAfter Sorting...");
+//        while (studIterator1.hasNext()) {
+//            System.out.println(studIterator1.next());
+//        }
 
 
     }

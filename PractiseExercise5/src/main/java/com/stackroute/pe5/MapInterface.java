@@ -37,11 +37,9 @@ public class MapInterface {
 
         System.out.println("Entered List.....\n"+al);
         System.out.println("Adding list to TreeSet");
-        TreeSet <String> TreeSet = new TreeSet<>(al);
+        TreeSet <String> TreeSet1 = new TreeSet<>(al);
         System.out.println("Printing TreeSet...");
-        System.out.println(TreeSet);
-
-
+        System.out.println(TreeSet1);
 
     }
 

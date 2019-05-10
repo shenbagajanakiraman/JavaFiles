@@ -2,20 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f18a86f6-b600-4c67-8473-264fad765660" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/BooleanHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/CountWordHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/MapInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/ModifyKeyValuePair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/ReshWordCountLogic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PractiseExercise3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PractiseExercise3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PractiseExercise4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PractiseExercise4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaHackathon/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaHackathon/src/main/java/com/stackroute/javahackathon/IteratorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/src/main/java/com/stackroute/sp/EditorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/src/main/java/com/stackroute/sp/InsuranceClaim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/src/main/java/com/stackroute/sp/SwitchOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolidPrinciples/src/main/java/com/stackroute/sp/ToyDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PractiseExercise5/com/stackroute/pe5/ReplaceArrayElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PractiseExercise5/com/stackroute/pe5/ReplaceArrayElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PractiseExercise5/com/stackroute/pe5/WordCountAndHashMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/ReplaceArrayElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/ReplaceArrayElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/WordCountAndHashMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PractiseExercise5/com/stackroute/pe5/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PractiseExercise5/com/stackroute/pe5/MainTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PractiseExercise5/com/stackroute/pe5/MapInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PractiseExercise5/com/stackroute/pe5/MapInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PractiseExercise5/com/stackroute/pe5/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PractiseExercise5/com/stackroute/pe5/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PractiseExercise5/com/stackroute/pe5/StudentSorter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PractiseExercise5/com/stackroute/pe5/StudentSorter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/MapInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/MapInterface.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,8 +32,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/CountWordHashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="10" column="50" lean-forward="true" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="60" />
+            <state relative-caret-position="250">
+              <caret line="10" column="50" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -41,7 +41,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/ModifyKeyValuePair.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
+            <state relative-caret-position="700">
               <caret line="31" column="64" selection-start-line="31" selection-start-column="64" selection-end-line="31" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -50,11 +50,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/MainTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="113" column="50" selection-start-line="113" selection-start-column="33" selection-end-line="113" selection-end-column="50" />
+            <state relative-caret-position="300">
+              <caret line="21" column="5" selection-end-line="130" />
               <folding>
                 <element signature="e#321#322#0" expanded="true" />
                 <element signature="e#346#347#0" expanded="true" />
@@ -63,11 +63,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/MapInterface.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
-              <caret line="40" column="47" selection-start-line="40" selection-start-column="47" selection-end-line="40" selection-end-column="47" />
+            <state relative-caret-position="600">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -91,17 +91,17 @@
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/ReplaceArrayElement.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/CountWordHashMap.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/BooleanHashMap.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/MapInterface.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/ModifyKeyValuePair.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/MapInterface.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/MainTest.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="144" />
-    <option name="y" value="79" />
-    <option name="width" value="1371" />
-    <option name="height" value="821" />
+    <option name="x" value="833" />
+    <option name="y" value="25" />
+    <option name="width" value="767" />
+    <option name="height" value="875" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -111,7 +111,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,6 +157,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -180,7 +180,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MapInterface">
+  <component name="RunManager" selected="Application.MainTest">
     <configuration name="BooleanHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.stackroute.pe5.BooleanHashMap" />
       <module name="PractiseExercise5" />
@@ -248,8 +248,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MapInterface" />
         <item itemvalue="Application.MainTest" />
+        <item itemvalue="Application.MapInterface" />
         <item itemvalue="Application.ModifyKeyValuePair" />
         <item itemvalue="Application.BooleanHashMap" />
         <item itemvalue="Application.CountWordHashMap" />
@@ -273,7 +273,7 @@
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2145259" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21990585" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -282,7 +282,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20509383" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3552279" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -314,7 +314,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/MainTest.java</url>
-          <line>79</line>
+          <line>80</line>
           <properties class="com.stackroute.pe5.MainTest" method="main">
             <option name="EMULATED" value="true" />
           </properties>
@@ -352,14 +352,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/CountWordHashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="10" column="50" lean-forward="true" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="60" />
+        <state relative-caret-position="250">
+          <caret line="10" column="50" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="60" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/ModifyKeyValuePair.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
+        <state relative-caret-position="700">
           <caret line="31" column="64" selection-start-line="31" selection-start-column="64" selection-end-line="31" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -367,21 +367,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/MapInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/MainTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="113" column="50" selection-start-line="113" selection-start-column="33" selection-end-line="113" selection-end-column="50" />
+        <state relative-caret-position="300">
+          <caret line="21" column="5" selection-end-line="130" />
           <folding>
             <element signature="e#321#322#0" expanded="true" />
             <element signature="e#346#347#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/MapInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="40" column="47" selection-start-line="40" selection-start-column="47" selection-end-line="40" selection-end-column="47" />
         </state>
       </provider>
     </entry>
