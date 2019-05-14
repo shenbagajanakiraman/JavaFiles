@@ -3,6 +3,7 @@
 package com.stackroute.javahackathon;
 
 import java.util.*;
+// Student Class with fields : name, id, and age.
 
 class Student {
     private int id;
@@ -75,9 +76,10 @@ class Student {
 
         }
 
-//        System.out.println("\nPrinting using foreach loop");
-//        // Using foreach loop
-//        studentList.forEach(System.out::println);
+
+        System.out.println("\nPrinting using foreach loop");
+        // Using foreach loop
+        studentList.forEach(System.out::println);
 
 
         }

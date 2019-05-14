@@ -23,11 +23,14 @@ public class DeQueueDemo {
         deque.add("Add2");
         deque.push("push2");
 
+
         //Adds an element to the head and returns a boolean to explain if the insertion was successful
         deque.offerFirst("offer first");
 
         //Adds an element to the head and returns a boolean to explain if the insertion was successful
         deque.offerLast("offer last");
+
+        deque.push("push");
 
 
         System.out.println(deque + "\n");

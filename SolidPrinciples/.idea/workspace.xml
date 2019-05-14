@@ -2,20 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c162b47-a5ac-4947-a12c-ef689904422f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../JavaHackathon/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaHackathon/src/main/java/com/stackroute/javahackathon/IteratorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/sp/EditorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/sp/InsuranceClaim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/sp/SwitchOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/sp/ToyDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PractiseExercise5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PractiseExercise5/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PractiseExercise5/out/production/PractiseExercise5/com/stackroute/pe5/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PractiseExercise5/out/production/PractiseExercise5/com/stackroute/pe5/MainTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PractiseExercise5/out/production/PractiseExercise5/com/stackroute/pe5/MapInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PractiseExercise5/out/production/PractiseExercise5/com/stackroute/pe5/MapInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PractiseExercise5/out/production/PractiseExercise5/com/stackroute/pe5/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PractiseExercise5/out/production/PractiseExercise5/com/stackroute/pe5/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PractiseExercise5/out/production/PractiseExercise5/com/stackroute/pe5/StudentSorter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PractiseExercise5/out/production/PractiseExercise5/com/stackroute/pe5/StudentSorter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PractiseExercise5/src/main/java/com/stackroute/pe5/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PractiseExercise5/src/main/java/com/stackroute/pe5/MainTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PractiseExercise5/src/main/java/com/stackroute/pe5/MapInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PractiseExercise5/src/main/java/com/stackroute/pe5/MapInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/sp/MainSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/sp/SwitchFlipper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/sp/ToyPack/ToyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/sp/editor/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/sp/editor/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/sp/editor/Text.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/sp/editor/TextFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/sp/insurance/CarInsuranceSurveyor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/sp/insurance/ClaimManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/sp/insurance/HealthInsuranceSurveyor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/sp/insurance/InsuranceClaim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/sp/insurance/InsuranceSurveyor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/sp/insurance/MainInsurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/sp/switches/ElectricAppliance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/sp/switches/ElectricSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/sp/switches/LightBulb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/sp/switches/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/sp/switches/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_application/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_application/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring_application/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaHackathon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaHackathon/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaHackathon/out/production/JavaHackathon/com/stackroute/javahackathon/DeQueueDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaHackathon/out/production/JavaHackathon/com/stackroute/javahackathon/DeQueueDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaHackathon/out/production/JavaHackathon/com/stackroute/javahackathon/IteratorDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaHackathon/out/production/JavaHackathon/com/stackroute/javahackathon/IteratorDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaHackathon/out/production/JavaHackathon/com/stackroute/javahackathon/StackDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaHackathon/out/production/JavaHackathon/com/stackroute/javahackathon/StackDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaHackathon/out/production/JavaHackathon/com/stackroute/javahackathon/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaHackathon/out/production/JavaHackathon/com/stackroute/javahackathon/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaHackathon/src/main/java/com/stackroute/javahackathon/DeQueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaHackathon/src/main/java/com/stackroute/javahackathon/DeQueueDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaHackathon/src/main/java/com/stackroute/javahackathon/IteratorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaHackathon/src/main/java/com/stackroute/javahackathon/IteratorDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaHackathon/src/main/java/com/stackroute/javahackathon/StackDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaHackathon/src/main/java/com/stackroute/javahackathon/StackDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/sp/EditorDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/sp/InsuranceClaim.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/sp/SwitchOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/sp/SwitchOperation.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,50 +45,45 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/sp/editor/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/sp/editor/Printer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" selection-start-line="2" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/sp/editor/TextFormatter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/sp/ToyDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/sp/editor/Text.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="78" selection-start-line="78" selection-end-line="78" />
+            <state relative-caret-position="350">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#348#349#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/sp/SwitchOperation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="e#116#117#0" expanded="true" />
-                <element signature="e#162#163#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/sp/InsuranceClaim.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1402">
-              <caret line="62" column="29" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/sp/EditorDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -88,18 +103,43 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/sp/SwitchOperation.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/sp/ToyDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/sp/InsuranceClaim.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/sp/Printer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/sp/EditorDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/sp/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/sp/TextFormatter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/sp/InsuranceClaim.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/sp/CarInsuranceSurveyor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/sp/ToyDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/sp/Toy/ToyInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/sp/ToyPack/ToyInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/sp/ClaimManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/sp/InsuranceSurveyor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/sp/HealthInsuranceSurveyor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/sp/MainInsurance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/sp/ToyPack/MainSwitch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/sp/SwitchFlipper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/sp/SwitchOperation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/sp/MainSwitch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/sp/switches/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/sp/switches/ElectricAppliance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/sp/switches/LightBulb.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/sp/switches/ElectricSwitch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/sp/insurance/InsuranceSurveyor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/sp/insurance/MainInsurance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/sp/switches/Switch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/sp/insurance/HealthInsuranceSurveyor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/sp/insurance/CarInsuranceSurveyor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/sp/editor/Printer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/sp/editor/TextFormatter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/sp/editor/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/sp/editor/Text.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="833" />
-    <option name="y" value="25" />
-    <option name="width" value="767" />
-    <option name="height" value="875" />
+    <option name="y" value="21" />
+    <option name="width" value="1024" />
+    <option name="height" value="747" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -109,6 +149,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -142,26 +183,22 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="sp" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="SolidPrinciples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SolidPrinciples" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sp" type="462c0819:PsiDirectoryNode" />
-              <item name="ToyDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.stackroute.sp.switches" />
+      <recent name="com.stackroute.sp" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -175,13 +212,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EditorDemo">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="EditorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.stackroute.sp.EditorDemo" />
       <module name="SolidPrinciples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.stackroute.sp.*" />
+          <option name="PATTERN" value="com.stackroute.sp.insurance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,12 +226,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsuranceClaim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.sp.InsuranceClaim" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.sp.editor.Main" />
       <module name="SolidPrinciples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.stackroute.sp.*" />
+          <option name="PATTERN" value="com.stackroute.sp.insurance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainInsurance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.sp.insurance.MainInsurance" />
+      <module name="SolidPrinciples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.sp.insurance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.sp.MainSwitch" />
+      <module name="SolidPrinciples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.sp.insurance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -207,20 +270,7 @@
       <module name="SolidPrinciples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.stackroute.sp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ToyDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.sp.ToyDemo" />
-      <module name="SolidPrinciples" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.sp.*" />
+          <option name="PATTERN" value="com.stackroute.sp.insurance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -230,10 +280,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EditorDemo" />
-        <item itemvalue="Application.InsuranceClaim" />
-        <item itemvalue="Application.ToyDemo" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MainInsurance" />
+        <item itemvalue="Application.MainSwitch" />
         <item itemvalue="Application.SwitchOperation" />
+        <item itemvalue="Application.EditorDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +305,7 @@
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21587089" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2118359" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -263,7 +314,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49966374" weight="0.04021448" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49966374" weight="0.06970509" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -271,7 +322,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5003362" side_tool="true" weight="0.53485256" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49966374" weight="0.60991955" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49966374" weight="0.25737265" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -283,37 +334,163 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/sp/SwitchOperation.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/sp/ToyDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="8" selection-end-column="24" />
           <folding>
-            <element signature="e#116#117#0" expanded="true" />
-            <element signature="e#162#163#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/sp/EditorDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/sp/ToyPack/ToyInterface.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="175">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/sp/InsuranceClaim.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/sp/ToyPack/MainSwitch.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/sp/MainSwitch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1402">
-          <caret line="62" column="29" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="29" />
+        <state relative-caret-position="125">
+          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/sp/ToyDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/sp/SwitchFlipper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="78" selection-start-line="78" selection-end-line="78" />
+        <state relative-caret-position="307">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="4" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/sp/SwitchOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="5" selection-start-line="5" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/sp/switches/LightBulb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/sp/switches/ElectricAppliance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/sp/switches/ElectricSwitch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/sp/insurance/InsuranceSurveyor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/sp/insurance/InsuranceClaim.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/sp/insurance/ClaimManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/sp/insurance/HealthInsuranceSurveyor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/sp/insurance/CarInsuranceSurveyor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/sp/insurance/MainInsurance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/sp/switches/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/sp/switches/Switch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" />
+          <folding>
+            <element signature="e#0#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/sp/editor/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/sp/editor/Printer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" selection-start-line="2" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/sp/editor/TextFormatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/sp/editor/Text.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#348#349#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -10,7 +10,7 @@ public class StackDemo {
     public static void main(String args[])
     {
         // Creating an empty Stack
-        Stack<String> myStack = new Stack<String>();
+        Stack<String> myStack = new Stack<>();
 
         // Use push() to add elements into the Stack
         myStack.push("Have");
@@ -24,17 +24,24 @@ public class StackDemo {
         System.out.println("Initial Stack: " + myStack);
 
         // Fetching the element at the head of the Stack
-        System.out.println("The element at the top of the"
+        System.out.println("\nThe element at the top of the"
                 + " stack is: " + myStack.peek());
+
+
+        // Searches if the element is present
+        System.out.println("Index of 'Day'"+myStack.search("Day"));
+
+        //Fetches the first element
+        System.out.println("Peek : "+myStack.peek());
+
+        //Fetches the First element and deletes it
+        System.out.println("Pop : "+myStack.pop());
+
+
+        //Checks the Stack is empty
+        System.out.println(myStack.empty());
 
         // Displaying the Stack after the Operation
         System.out.println("Final Stack: " + myStack);
-
-        System.out.println(myStack.search("Day"));
-        System.out.println(myStack.peek());
-        System.out.println(myStack.pop());
-        System.out.println(myStack);
-
-        System.out.println(myStack.empty());
     }
 }
